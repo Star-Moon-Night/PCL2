@@ -11,7 +11,7 @@ Friend Module ModSecret
     '在开源版的注册表与常规版的注册表隔离，以防数据冲突
     Public Const RegFolder As String = "PCLDebug"
     '用于微软登录的 ClientId
-    Public Const OAuthClientId As String = ""
+    Public Const OAuthClientId As String = "29654df3-8510-4c43-9d91-70fa9b49767a"
     'CurseForge API Key
     Public Const CurseForgeAPIKey As String = ""
 
